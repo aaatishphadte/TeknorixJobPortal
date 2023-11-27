@@ -11,4 +11,7 @@ Clone the repository and open it with visual Studio Solution(.sln) File
 run the project as all the migrations are already created and Data is added using Database Seeding 
 
 Kindly Test the Endpoints For the desired output
-    
+    Database Used MSSQL
+    You can Use SSMS for DB-Mnagement 
+
+    MUST HAVE Installed MSSQLSERVER INSTALLED
