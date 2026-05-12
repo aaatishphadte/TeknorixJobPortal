@@ -4439,11 +4439,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixAPI.csproj",
+      "projectUniqueName": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\TeknorixAPI.csproj",
       "projectName": "TeknorixAPI",
-      "projectPath": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixAPI.csproj",
+      "projectPath": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\TeknorixAPI.csproj",
       "packagesPath": "C:\\Users\\datta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\obj\\",
+      "outputPath": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\datta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4466,6 +4466,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4514,6 +4519,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -4522,7 +4545,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

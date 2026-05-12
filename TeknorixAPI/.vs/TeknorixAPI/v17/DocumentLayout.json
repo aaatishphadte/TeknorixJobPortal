@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:services\\jobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:services\\ijobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\models\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:models\\searchresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:models\\jobs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|c:\\users\\datta\\source\\repos\\teknorixapi\\teknorixjobportal\\teknorixapi\\models\\searchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06D7D967-53F1-4A14-8849-51ECFD0E5EB4}|TeknorixAPI.csproj|solutionrelative:models\\searchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Jobs.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\Jobs.cs",
+              "RelativeDocumentMoniker": "Models\\Jobs.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\Jobs.cs",
+              "RelativeToolTip": "Models\\Jobs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\SearchResultDto.cs",
+              "RelativeDocumentMoniker": "Models\\SearchResultDto.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\SearchResultDto.cs",
+              "RelativeToolTip": "Models\\SearchResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJobService.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Services\\IJobService.cs",
+              "RelativeDocumentMoniker": "Services\\IJobService.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Services\\IJobService.cs",
+              "RelativeToolTip": "Services\\IJobService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SearchDto.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\SearchDto.cs",
+              "RelativeDocumentMoniker": "Models\\SearchDto.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Models\\SearchDto.cs",
+              "RelativeToolTip": "Models\\SearchDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobService.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Services\\JobService.cs",
+              "RelativeDocumentMoniker": "Services\\JobService.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Services\\JobService.cs",
+              "RelativeToolTip": "Services\\JobService.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "C:\\Users\\datta\\source\\repos\\TeknorixAPI\\TeknorixJobPortal\\TeknorixAPI\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwDgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-04T10:16:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
